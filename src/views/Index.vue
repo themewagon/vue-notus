@@ -26,7 +26,7 @@
             <div class="mt-12">
               <a
                 href="#!/learning-lab/tailwind/vue/overview/notus?ref=vn-index"
-                target="_blank"
+                
                 class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
               >
                 Get started
@@ -242,7 +242,7 @@
             </div>
             <a
               href="#!/learning-lab/tailwind/vue/alerts/notus?ref=vn-index"
-              target="_blank"
+              
               class="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
             >
               View All
@@ -294,7 +294,7 @@
               <div class="my-4 w-full lg:w-6/12 px-4">
                 <a
                   href="#!/learning-lab/tailwind/svelte/alerts/notus?ref=vn-index"
-                  target="_blank"
+                  
                 >
                   <div class="bg-red-600 shadow-lg rounded-lg text-center p-8">
                     <p class="text-lg text-white mt-4 font-semibold">
@@ -304,7 +304,7 @@
                 </a>
                 <a
                   href="#!/learning-lab/tailwind/react/alerts/notus?ref=vn-index"
-                  target="_blank"
+                  
                 >
                   <div
                     class="bg-lightBlue-500 shadow-lg rounded-lg text-center p-8 mt-8"
@@ -316,7 +316,7 @@
                 </a>
                 <a
                   href="#!/learning-lab/tailwind/nextjs/alerts/notus?ref=vn-index"
-                  target="_blank"
+                  
                 >
                   <div
                     class="bg-blueGray-700 shadow-lg rounded-lg text-center p-8 mt-8"
@@ -330,7 +330,7 @@
               <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
                 <a
                   href="#!/learning-lab/tailwind/js/alerts/notus?ref=vn-index"
-                  target="_blank"
+                  
                 >
                   <div
                     class="bg-yellow-500 shadow-lg rounded-lg text-center p-8"
@@ -342,7 +342,7 @@
                 </a>
                 <a
                   href="#!/learning-lab/tailwind/angular/alerts/notus?ref=vn-index"
-                  target="_blank"
+                  
                 >
                   <div
                     class="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8"
@@ -354,7 +354,7 @@
                 </a>
                 <a
                   href="#!/learning-lab/tailwind/vue/alerts/notus?ref=vn-index"
-                  target="_blank"
+                  
                 >
                   <div
                     class="bg-emerald-500 shadow-lg rounded-lg text-center p-8 mt-8"
@@ -434,7 +434,7 @@
             </div>
             <a
               href="#!/learning-lab/tailwind/vue/alerts/notus?ref=vn-index"
-              target="_blank"
+              
               class="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
             >
               View all
@@ -695,7 +695,7 @@
             <div class="sm:block flex flex-col mt-10">
               <a
                 href="#!/learning-lab/tailwind/vue/overview/notus?ref=vn-index"
-                target="_blank"
+                
                 class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
               >
                 Get started

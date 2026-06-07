@@ -11,18 +11,21 @@
           >
             Copyright © {{ date }}
             <a
-              href="#!?ref=vn-footer-admin"
+              href="https://www.creative-tim.com/"
+              target="_blank"
               class="text-blueGray-500 hover:text-blueGray-700 text-sm font-semibold py-1"
             >
               Creative Tim
             </a>
           </div>
+          Distributed by <a href="https://themewagon.com" class="text-blueGray-500 hover:text-blueGray-700 text-sm font-semibold py-1" target="_blank">ThemeWagon</a>
         </div>
         <div class="w-full md:w-8/12 px-4">
           <ul class="flex flex-wrap list-none md:justify-end justify-center">
             <li>
               <a
-                href="#!?ref=vn-footer-admin"
+                href="https://www.creative-tim.com/"
+                target="_blank"
                 class="text-blueGray-600 hover:text-blueGray-800 text-sm font-semibold block py-1 px-3"
               >
                 Creative Tim

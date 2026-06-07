@@ -48,7 +48,7 @@
             <a
               class="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
               href="#!"
-              target="_blank"
+              
             >
               <i
                 class="lg:text-blueGray-200 text-blueGray-400 fab fa-facebook text-lg leading-lg"
@@ -61,7 +61,7 @@
             <a
               class="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
               href="#!"
-              target="_blank"
+              
             >
               <i
                 class="lg:text-blueGray-200 text-blueGray-400 fab fa-twitter text-lg leading-lg"

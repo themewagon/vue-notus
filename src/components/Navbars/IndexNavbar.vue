@@ -50,7 +50,7 @@
             <a
               class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold"
               href="#!"
-              target="_blank"
+              
             >
               <i class="text-blueGray-400 fab fa-facebook text-lg leading-lg" />
               <span class="lg:hidden inline-block ml-2">Share</span>
@@ -61,7 +61,7 @@
             <a
               class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold"
               href="#!"
-              target="_blank"
+              
             >
               <i class="text-blueGray-400 fab fa-twitter text-lg leading-lg" />
               <span class="lg:hidden inline-block ml-2">Tweet</span>

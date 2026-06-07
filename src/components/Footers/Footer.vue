@@ -148,12 +148,15 @@
           <div class="text-sm text-blueGray-500 font-semibold py-1">
             Copyright © {{ date }} Vue Notus by
             <a
-              href="#!?ref=vn-footer"
+              href="https://www.creative-tim.com/"
               class="text-blueGray-500 hover:text-blueGray-800"
+              target="_blank"
             >
               Creative Tim
             </a>
             .
+            <br />
+            <p>Distributed by <a class="text-blueGray-500 hover:text-blueGray-800" href="https://themewagon.com" target="_blank">ThemeWagon</a>.</p>
           </div>
         </div>
       </div>
